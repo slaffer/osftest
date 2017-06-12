@@ -1,4 +1,4 @@
 # osftest
-This is a repository created to test the OSF Github integration.
+This is a repository created to demonstrate the OSF GitHub integration.
 
-You can also edit someone's README file in Github even if you aren't the original author.
+Learn more about how to link a GitHub repo with an OSF project [here](http://help.osf.io/m/addons/l/524149-storage-add-ons#github)
